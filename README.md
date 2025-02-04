@@ -3,6 +3,8 @@
 Sou **Desenvolvedor Mobile** com experiência no desenvolvimento de aplicativos **Flutter** e atualmente estou me especializando em **Inteligência Artificial**. Apaixonado por tecnologia, busco constantemente **aprender** e aplicar novos conhecimentos em projetos inovadores.
 
 ---
+[![card](https://github-readme-stats.vercel.app/api?username=alexomantovani&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=alexomantovani&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+---
 
 ## 🚀 Sobre mim  
 
